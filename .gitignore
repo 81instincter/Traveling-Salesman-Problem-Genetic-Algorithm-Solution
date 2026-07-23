@@ -1,0 +1,22 @@
+# Build artifacts
+*.o
+*.obj
+*.exe
+main
+brute_force_main
+*.out
+
+# Timing logs generated at runtime
+gaTimes.csv
+bfTimes.csv
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# Debug
+*.dSYM/
+*.pdb
