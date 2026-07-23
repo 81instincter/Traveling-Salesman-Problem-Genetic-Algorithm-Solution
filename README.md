@@ -68,6 +68,12 @@ make run-bf
 ./brute_force_main cities.csv 8
 ```
 
+# Clean
+```
+Bash
+make clean
+```
+
 ## Sample Output
 ### Genetic Algorithm (8 Cities)
 ```
