@@ -108,7 +108,7 @@ Best tour            : 0 4 1 5 2 7 3 6 0 (return)
 - Visualisation of tours (e.g. with a plotting library) would make results more intuitive.
 
 # Author
-**Elijah Kenning**
+**Elijah Kenning.**
 
 # License
 This project is released under the MIT License.
